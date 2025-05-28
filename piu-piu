@@ -47,7 +47,7 @@ vfail(){
     storyspd=0.05                                       # story texting speed                       (0.05)
     bossborn=                                           # boss starter
     tillboss=100                                        # frags needed to fight with boss           (100)
-     version='₁․₁'                                      # game version in small digits ₀₁₂₃₄₅₆₇₈₉․
+     version='₁․₂'                                      # game version in small digits ₀₁₂₃₄₅₆₇₈₉․
      bhealth=100                                        # boss' health                              (100)
      showfps=true                                       # show FPS counter if set                   (true)
      enumber=0                                          # enemies counter                           (0)
